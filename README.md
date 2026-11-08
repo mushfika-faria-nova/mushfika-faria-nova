@@ -1,6 +1,6 @@
 ### Hi, I'm Mushfika 👋
 
-Senior backend engineer building banking platforms in **Java and Spring**: identity and access (Keycloak, OAuth2/OIDC), event-driven systems (RabbitMQ), and security (OWASP, policy-as-code with OPA).
+Tech lead and backend engineer building banking platforms in **Java and Spring**: identity and access (Keycloak, OAuth2/OIDC), event-driven systems (RabbitMQ), and security (OWASP, policy-as-code with OPA).
 
 - 🏦 9+ years on production banking systems: internet banking, payments, notifications and login for about a million customers
 - 🔐 Interested in authorization, step-up controls and money-safe transaction design

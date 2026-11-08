@@ -1,11 +1,11 @@
-### Hi, I'm Mushfika 👋
+### Hi, I'm Mushfika
 
 Tech lead and backend engineer building banking platforms in **Java and Spring**: identity and access (Keycloak, OAuth2/OIDC), event-driven systems (RabbitMQ), and security (OWASP, policy-as-code with OPA).
 
-- 🏦 9+ years on production banking systems: internet banking, payments, notifications and login for about a million customers
-- 🔐 Interested in authorization, step-up controls and money-safe transaction design
-- 🤖 Building with AI coding agents under guardrails: same reviews, tests and security gates as any other code
-- 🌏 Dhaka, Bangladesh (GMT+6) · open to remote roles
+- 9+ years on production banking systems: internet banking, payments, notifications and login for about a million customers
+- Interested in authorization, step-up controls and money-safe transaction design
+- Building with AI coding agents under guardrails: same reviews, tests and security gates as any other code
+- Dhaka, Bangladesh (GMT+6) · open to remote roles
 
 **Writing**
 - [Zero-Reset Keycloak Migration for a Million-User Bank: SPIs and Argon2id](https://medium.com/@mushfika.faria.nova/zero-reset-keycloak-migration-for-a-million-user-bank-spis-and-argon2id-8eb3c6f2ddf4)
